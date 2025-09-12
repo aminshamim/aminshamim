@@ -92,12 +92,5 @@ Email: (available on request)
 ## 🌱 Current Learning Threads
 Advanced Rust (systems & async), modern data graph patterns, resilient micro-frontends, AI-assisted developer enablement.
 
-## � Optional Profile Enhancers (Commented Out)
-<!-- 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aminshamim)](#)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminshamim&layout=compact)](#)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aminshamim&show_icons=true)](#)
--->
-
 ---
 <sub>Focused on building sustainable engineering organisations and dependable platforms. Always open to meaningful conversations.</sub>
