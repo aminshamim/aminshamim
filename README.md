@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Amin Shamim
+# 👋 Hi, I'm Md Aminul Islam Sarker (Amin Shamim)
 ### Engineering Manager | Platform & Cloud Architect | Product & People Builder
 
 15+ years designing, building & scaling high-impact digital platforms across government, health-tech, e‑commerce and social applications.
