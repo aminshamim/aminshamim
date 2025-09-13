@@ -78,7 +78,7 @@ Resilient systems + empowered people = sustainable velocity. I invest in clarity
 {
 	"experience_years": 15,
 	"domains": ["health-tech", "gov-tech", "e-commerce", "travel", "social"],
-	"impact": {"national_portal_sites": 35000, "officials_trained": 1000},
+	"impact": {"national_portal_sites": 50000, "officials_trained": 1000},
 	"focus": ["architecture", "platform scaling", "team enablement", "cloud governance"],
 	"core_values": ["clarity", "quality", "security", "mentorship", "continuous improvement"]
 }
