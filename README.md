@@ -32,7 +32,7 @@ Engineering Manager at **Arogga** – Bangladesh’s leading medical e-commerce 
 ## 🏅 Career Highlights
 | Theme | Highlight |
 |-------|----------|
-| National Scale | Co-built framework powering tens of thousands of government portals |
+| National Scale | Co-built framework powering 50 thousands of government portals |
 | Cloud & DevOps | Automated CI/CD, infra as code, zero-downtime rollouts, resilient architectures |
 | Product Leadership | Shipped complex features across healthcare, travel, commerce & social graph domains |
 | Performance & Scale | Caching layers (Redis/Memcached), query optimisation, async processing, load balancing |
