@@ -86,7 +86,7 @@ Resilient systems + empowered people = sustainable velocity. I invest in clarity
 
 ## 🤝 Let’s Connect
 LinkedIn: [linkedin.com/in/aminshamim](https://www.linkedin.com/in/aminshamim)  
-GitHub: you're here �  
+GitHub: @aminshamim 
 Email: (available on request)  
 
 ## 🌱 Current Learning Threads
