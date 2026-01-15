@@ -9,7 +9,7 @@
 
 | Impact Snapshot |  |
 |-----------------|--|
-| 🇧🇩 National Portal Framework core contributor | Unified **50,000+** govt sites |
+| 🇧🇩 National Portal Framework core contributor | Unified **25,000+** govt sites |
 | 🏆 WSIS Prize (ITU, 2015) | Recognized for national digital transformation |
 | 👥 1000+ Officials Trained | Capacity building for sustainable adoption |
 | 🚀 Scaled Platforms | Cloud-native, secure, high-performance architectures |
